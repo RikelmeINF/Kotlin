@@ -2,7 +2,6 @@ fun main (){
     println("Qual o seu nome ?")
     val name = readln()
     println("Hello, $name!")
-
 }
 // Código acima é uma pequena interação com usuário.
 // (println) serve para demonstar.
